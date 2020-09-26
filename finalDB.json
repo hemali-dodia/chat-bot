@@ -1,0 +1,186 @@
+{
+    "finalDb": 
+    [
+            {
+            	"About":
+            	[
+            		{
+            			"Questions": ["what is inventor networks",
+            				"how it works",
+            				"how it can help me",
+            				"what are your programs",
+            				"give me contact details",
+            				"is there any internship available", 
+            				"do you provide jobs",
+            				"do you help to get a job",
+            				"what do you offer",
+            				"what are your services",
+            				"upcoming events",
+            				"what is your next event",
+            				"when will be your next event",
+            				"how old is this company",
+            				"this there any time duration for this",
+            				"what is purpose of this"],
+            			"Answers": [""]
+            		}
+            
+            	]
+            },
+            {
+            	"Collaborative Talks":
+            	[
+            		{
+            			"Questions": ["what is Collaborative Talks",
+            				"what happens in Collaborative Talks",
+            				"how it will help me",
+            				"does it cost anything",
+            				"how much it will cost"],
+            			"Answers": ["A talk in Collaboration with industry and academia proffesional at the same time to leverage theory and market implementation of concepts easy for students",
+            			]
+            		}
+            
+            	]
+            },
+            {
+            	"E-Literature Library":
+            	[
+            		{
+            			"Questions": ["what is e literature library",
+            				"what materials are present in this library",
+            				"can i have free trial for it",
+            				"how i can use the material present in this e library",
+            				"how i can use it",
+            				"do i have to pay anything for this library",
+            				"what will be the cost for this literature library",
+            				"how long i can access this library"],
+            			"Answers": ["Unlimited access with easy permission granting mechanism to make use of any copy right material available in the E-Libraray",
+            			]
+            		}
+            	]
+            },
+            {
+            	"Carve Your Idea":
+            	[
+            		{
+            			"Questions": ["what is carve your idea",
+            				"how it will assist me",
+            				"how it will help me",
+            				"do i have to pay for it",
+            				"how much it will cost",
+            				"who will guide me",
+            				"how long i will get assistance",
+            				"what is time period for the assistance"],
+            			"Answers": ["Framework under copyright process which assists user to define problem statements and architect them",
+            			]
+            		}
+            	]
+            }
+            {	
+            	"Ideathon":
+            	[
+            		{
+            			"Questions": ["what is Ideathon",
+            				"how it will help me",
+            				"do i have to pay for it",
+            				"how much it will cost",
+            				"will i get guidance and assistance for this",
+            				"where i can participate",
+            				"will i surely win the prizes",
+            				"what is time limit for this",
+            				"will you process with my idea or you will provide any idea for participation"],
+            			"Answers": ["A platform to bootstrap, build, architect and compete your ideas with peer participants for exciting prizes",
+            			]
+            		}
+            	]
+            },
+            {
+            	"Tech Talks":
+            	[
+            		{
+            			"Questions": ["what is tech talk",
+            				"which personalities have come to talk till now",
+            				"is there any registration fees to attain expert talk",
+            				"who is your next expert",
+            				"when will your next tech talk is",
+            				"what is avg duration of this talk session",
+            				"how i can register myself for this"],
+            			"Answers": ["We bring technology expert to talk to the aspirants with detailed insights",
+            			]
+            		}
+            	]
+            },
+            {
+            	"Paper Presentation":
+            	[
+            		{
+            			"Questions": ["what is paper Presentation",
+            				"what happens in paper Presentation",
+            				"how i can participate in this Presentation",
+            				"is there any registration fees",
+            				"when will next Presentation happen",
+            				"what will be the count of audiance for this Presentation",
+            				"will there be any expert for judging",
+            				"is it paper Presentation competition",
+            				"is there any sample of Presentation"],
+            			"Answers": ["User friendly and beautiful version of Research documents presentation for huge audiances",
+            			]
+            		}
+            	]
+            },
+            {
+            	"Research Framework":
+            	[
+            		{
+            			"Questions": ["what Frameworks do you have",
+            				"what Frameworks do you offer",
+            				"how these will help me",
+            				"do i have to pay for this",
+            				"to whom i can contact"],
+            			"Answers": ["Hack the shell, D-3 Approach and Find the right problem statements for your innovation, project and invention",
+            			"Hack the shell, D-3 Approach and Find the right problem statements for your innovation, project and invention",
+            		]
+            		}
+            	]
+            },
+            {
+            	"Hack the shell":
+            	[
+            		{
+            			"Questions": ["what is hack shell",
+            				"can you provide any example",
+            				"what kind of challenges",
+            				"how i can join this program",
+            				"is it kind of hackathon",
+            				"do i have to pay anything for this",
+            				"how much it will cost",
+            				"what will be the duration of this program",
+            				"how it will work"],
+            			"Answers": ["cost for this is Rs.250",
+            				"Duration will be of 2hr only"]
+            		}
+            	]
+            },
+            {
+            	"D-3 Approach":
+            	[
+            		{
+            			"Questions": ["what is d-3 approach",
+            				"how i can learn to innovate in 2hr",
+            				"what is benefit of this",
+            				"how it works"],
+            			"Answers": ["cost for this is Rs.500",
+            				"Duration will be of 4hr only"]
+            		}
+            	]
+            },
+            {
+            	"Miscellaneous":
+            	[
+            		{
+                        "Questions": [""],
+                        "Answers": [""]
+            		}
+            	]
+            }
+        ]
+}
